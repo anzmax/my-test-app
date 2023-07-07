@@ -10,7 +10,7 @@ final class FeedViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        view.backgroundColor = .systemTeal
+        view.backgroundColor = .red
         
         createSubView()
     }
